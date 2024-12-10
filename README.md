@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**BELAL999/BELAL999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm **Belal Nady**, a passionate Junior Front-End Developer. I enjoy crafting visually appealing and user-friendly websites and applications. ✨
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **HTML** 🧱
+- **CSS** 🎨
+- **Sass** 🎀
+- **JavaScript** ⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 My Goal
+I'm constantly learning and improving my skills to build better and more innovative front-end experiences. Currently, I'm focused on enhancing my JavaScript knowledge and exploring modern frameworks. 🚀
+
+## 🤝 Let's Connect!
+Feel free to reach out or check out my projects. I'm always excited to collaborate and learn together! 🌟
+
