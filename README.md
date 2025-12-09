@@ -9,8 +9,8 @@ I'm **Belal Nady**, a passionate Front-End Developer. I enjoy crafting visually 
 - **Sass** 🎀
 - **JavaScript** ⚡
 - **React**
-- typeScript**
-- Next js**
+- typeScript
+- Next js
 
 ## 🎯 My Goal
 I'm constantly learning and improving my skills to build better and more innovative front-end experiences .
